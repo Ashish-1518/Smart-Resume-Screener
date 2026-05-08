@@ -1,0 +1,12 @@
+Name: Jane Smith
+Experience: 4 years as Java Developer
+
+Skills:
+Java, Spring Boot, Hibernate, MySQL, Maven, Git
+
+Experience:
+- Built microservices using Spring Boot
+- Database design and optimization
+
+Education:
+MCA from Delhi University

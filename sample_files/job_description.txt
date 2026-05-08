@@ -1,0 +1,19 @@
+We are looking for a Python Developer with 2+ years experience.
+
+Required Skills:
+- Python programming
+- Django or Flask framework
+- SQL databases
+- Git version control
+- REST API development
+
+Good to have:
+- Docker
+- AWS or cloud platforms
+- Machine Learning basics
+
+Responsibilities:
+- Develop and maintain web applications
+- Write clean, maintainable code
+- Collaborate with cross-functional teams
+- Participate in code reviews

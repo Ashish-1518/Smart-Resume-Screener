@@ -1,0 +1,13 @@
+Name: John Doe
+Experience: 3 years as Python Developer
+
+Skills:
+Python, Django, Flask, SQL, PostgreSQL, Git, REST APIs, Docker
+
+Experience:
+- Developed 5+ web applications using Django
+- Built REST APIs serving 10k+ requests daily
+- Implemented unit tests and CI/CD pipelines
+
+Education:
+B.Tech in Computer Science
